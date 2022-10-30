@@ -1,0 +1,7 @@
+>>For Django rest API Frameworks requirement....
+
+-->django
+-->djangorestframework
+-->pyyaml
+-->requests
+-->django-cors-headers
